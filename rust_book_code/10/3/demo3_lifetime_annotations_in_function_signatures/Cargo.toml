@@ -1,0 +1,9 @@
+[package]
+name = "demo3_lifetime_annotations_in_function_signatures"
+version = "0.1.0"
+authors = ["1024chen <1946715297@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
