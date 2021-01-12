@@ -1,8 +1,4 @@
-the book 的个人练习代码
+《The Rust Programming language》、《Rust编程之道》和《The Rustonomicon》的个人练习代码
 
 
-
-clone from your git server: git clone git@server:/srv/sample.git
-
-then push
 
